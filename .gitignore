@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET Core
+bin/
+obj/
+*.csproj.user
+
+# SQLite Database
+*.db
+
+# Environment Files
+appsettings.Development.json
+appsettings.json
+
+# Dependency Folders
+packages/
+node_modules/
